@@ -146,11 +146,14 @@ A COMMENT Upon the Two Tales OF OUR ANCIENT, RENOVVNED, and EVER-LIVING POET S<h
             </gap>
          </div>
          <div type="dedication">
-            <figure>
-               <head>Collegium Siv<gap reason="illegible" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>lula Marice de Valentia communiter nuncupata Pembroke Hall,</head>
-            </figure>
+            <p>
+               <pb facs="tcp:46879:3"/>
+               <figure>
+                  <head>Collegium Siv<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lula Marice de Valentia communiter nuncupata Pembroke Hall,</head>
+               </figure>
+            </p>
             <p>
                <pb facs="tcp:46879:3"/>
 TO THE HIGHLY HONOURED, AND NOBLY ACCOMPLISHED, <hi>S<hi rend="sup">r</hi> JOHN WINTOUR,</hi> SECRETARY OF STATE TO HER SACRED MAJESTY, <hi>THE QUEEN MOTHER;</hi> A LOYAL SUBJECT <hi>TO HIS SOVEREIGN,</hi> A FAITHFUL SERVANT <hi>TO HIS COUNTREY,</hi> A RESOLUTE SUFFERER <hi>FOR BOTH; R. B.</hi>
